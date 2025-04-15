@@ -274,3 +274,5 @@ An **Ensemble-Based Machine Learning** approach for detecting credit card fraud,
 - بسیار ساده برای پیاده‌سازی اولیه  
 - هر مدل ضعف بقیه رو **پوشش می‌ده**  
 - Soft Voting معمولاً **دقیق‌تره**
+
+</div>
