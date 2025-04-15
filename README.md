@@ -130,26 +130,19 @@ An **Ensemble-Based Machine Learning** approach for detecting credit card fraud,
 
 <div dir="rtl">
 
+### ✅ جدول موضوعات پایان‌نامه بر اساس دسته‌بندی روش‌های مدل‌سازی در کشف تقلب کارت‌های اعتباری 💳🧠📊
+
 | 🔢 ردیف | 🎓📘 عنوان پیشنهادی پایان‌نامه (فارسی / English) |
 |--------|---------------------------------------------------|
-| 1️⃣ | 🎓 کشف تقلب در کارت‌های اعتباری با استفاده از تکنیک‌های متعادل‌سازی داده و الگوریتم‌های یادگیری ماشین  
-📘 *Credit Card Fraud Detection (CCFD) Using Data Balancing Techniques and Classical Machine Learning Algorithms* |
-| 2️⃣ | 🎓 کشف تقلب در کارت‌های اعتباری با استفاده از مدل‌های انسمبل و تکنیک‌های متعادل‌سازی داده  
-📘 *Credit Card Fraud Detection (CCFD) Using Ensemble Models and Data Balancing Techniques* |
-| 3️⃣ | 🎓 کشف تقلب در کارت‌های اعتباری با استفاده از الگوریتم‌های یادگیری عمیق و رویکردهای مقابله با عدم‌توازن داده  
-📘 *Credit Card Fraud Detection (CCFD) Using Deep Learning Algorithms and Imbalanced Data Handling Approaches* |
-| 4️⃣ | 🎓 کشف تقلب در کارت‌های اعتباری با استفاده از مدل‌های ترکیبی و تکنیک‌های متعادل‌سازی داده  
-📘 *Credit Card Fraud Detection (CCFD) Using Hybrid Models and Data Balancing Techniques* |
-| 5️⃣ | 🎓 کشف تقلب در کارت‌های اعتباری با استفاده از مدل‌های مبتنی بر گراف و روش‌های مقابله با عدم‌توازن داده  
-📘 *Credit Card Fraud Detection (CCFD) Using Graph-Based Models and Imbalanced Data Handling Techniques* |
-| 6️⃣ | 🎓 کشف تقلب در کارت‌های اعتباری با استفاده از روش‌های کشف ناهنجاری و تکنیک‌های متعادل‌سازی داده  
-📘 *Credit Card Fraud Detection (CCFD) Using Anomaly Detection Methods and Data Balancing Techniques* |
-| 7️⃣ | 🎓 کشف تقلب در کارت‌های اعتباری با استفاده از یادگیری نیمه‌نظارتی و روش‌های مدیریت داده‌های نامتوازن  
-📘 *Credit Card Fraud Detection (CCFD) Using Semi-Supervised Learning and Imbalanced Data Handling Techniques* |
-| 8️⃣ | 🎓 کشف تقلب در کارت‌های اعتباری با استفاده از یادگیری تقویتی و تکنیک‌های مقابله با داده‌های نامتوازن  
-📘 *Credit Card Fraud Detection (CCFD) Using Reinforcement Learning and Imbalanced Data Handling Approaches* |
-| 9️⃣ | 🎓 کشف تقلب در کارت‌های اعتباری با استفاده از الگوریتم‌های یادگیری بدون نظارت و تحلیل داده‌های نامتوازن  
-📘 *Credit Card Fraud Detection (CCFD) Using Unsupervised Learning Algorithms and Imbalanced Data Analysis* |
+| 1️⃣ | 🎓 کشف تقلب در کارت‌های اعتباری با استفاده از تکنیک‌های متعادل‌سازی داده و الگوریتم‌های یادگیری ماشین  <br> 📘 *Credit Card Fraud Detection (CCFD) Using Data Balancing Techniques and Classical Machine Learning Algorithms* |
+| 2️⃣ | 🎓 کشف تقلب در کارت‌های اعتباری با استفاده از مدل‌های انسمبل و تکنیک‌های متعادل‌سازی داده  <br> 📘 *Credit Card Fraud Detection (CCFD) Using Ensemble Models and Data Balancing Techniques* |
+| 3️⃣ | 🎓 کشف تقلب در کارت‌های اعتباری با استفاده از الگوریتم‌های یادگیری عمیق و رویکردهای مقابله با عدم‌توازن داده  <br> 📘 *Credit Card Fraud Detection (CCFD) Using Deep Learning Algorithms and Imbalanced Data Handling Approaches* |
+| 4️⃣ | 🎓 کشف تقلب در کارت‌های اعتباری با استفاده از مدل‌های ترکیبی و تکنیک‌های متعادل‌سازی داده  <br> 📘 *Credit Card Fraud Detection (CCFD) Using Hybrid Models and Data Balancing Techniques* |
+| 5️⃣ | 🎓 کشف تقلب در کارت‌های اعتباری با استفاده از مدل‌های مبتنی بر گراف و روش‌های مقابله با عدم‌توازن داده  <br> 📘 *Credit Card Fraud Detection (CCFD) Using Graph-Based Models and Imbalanced Data Handling Techniques* |
+| 6️⃣ | 🎓 کشف تقلب در کارت‌های اعتباری با استفاده از روش‌های کشف ناهنجاری و تکنیک‌های متعادل‌سازی داده  <br> 📘 *Credit Card Fraud Detection (CCFD) Using Anomaly Detection Methods and Data Balancing Techniques* |
+| 7️⃣ | 🎓 کشف تقلب در کارت‌های اعتباری با استفاده از یادگیری نیمه‌نظارتی و روش‌های مدیریت داده‌های نامتوازن  <br> 📘 *Credit Card Fraud Detection (CCFD) Using Semi-Supervised Learning and Imbalanced Data Handling Techniques* |
+| 8️⃣ | 🎓 کشف تقلب در کارت‌های اعتباری با استفاده از یادگیری تقویتی و تکنیک‌های مقابله با داده‌های نامتوازن  <br> 📘 *Credit Card Fraud Detection (CCFD) Using Reinforcement Learning and Imbalanced Data Handling Approaches* |
+| 9️⃣ | 🎓 کشف تقلب در کارت‌های اعتباری با استفاده از الگوریتم‌های یادگیری بدون نظارت و تحلیل داده‌های نامتوازن  <br> 📘 *Credit Card Fraud Detection (CCFD) Using Unsupervised Learning Algorithms and Imbalanced Data Analysis* |
 
 
 </div>
