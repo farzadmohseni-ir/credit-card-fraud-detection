@@ -76,7 +76,7 @@ An **Ensemble-Based Machine Learning** approach for detecting credit card fraud,
 <div dir="rtl">
 
 
-| 🔢 ردیف | عنوان روش             | نوع                   | مزایا                                           | معایب                                  | مناسب برای دیتاست 2023؟                      |
+| 🔢 ردیف | عنوان روش             | نوع                   | مزایا                                           | معایب                                  | مناسب برای دیتاست من؟                      |
 |--------|------------------------|------------------------|--------------------------------------------------|-----------------------------------------|----------------------------------------------|
 | 1      | Random Undersampling   | Undersampling          | ساده و سریع، کاهش حجم داده                      | احتمال حذف اطلاعات مفید               | ❌ خیلی ضعیف برای دیتاست بزرگ و نامتوازن     |
 |        |                        |                        | ➤ با حذف تصادفی از کلاس غالب، کلاس‌ها را برابر می‌کند. |                                         |                                              |
@@ -102,3 +102,24 @@ An **Ensemble-Based Machine Learning** approach for detecting credit card fraud,
 - ✅✅ کاملاً توصیه می‌شود  
 - ⚠️ قابل استفاده ولی نه بهترین انتخاب  
 - ❌ مناسب نیست برای دیتاست تو
+
+---
+
+
+### 📊 دسته‌بندی روش‌های مدل‌سازی در کشف تقلب کارت اعتباری (CCFD)
+
+<div dir="rtl">
+  
+| 🔢 ردیف | 🧠 دسته روش              | 🔤 عنوان انگلیسی               | 🧪 الگوریتم‌ها                                                                 |
+|--------|---------------------------|--------------------------------|--------------------------------------------------------------------------------|
+| 1️⃣     | یادگیری ماشین             | Machine Learning               | Decision Tree, Logistic Regression, SVM, Naive Bayes, KNN                      |
+| 2️⃣     | یادگیری انسمبل            | Ensemble Learning              | Random Forest, AdaBoost, Gradient Boosting, XGBoost, LightGBM, CatBoost        |
+| 3️⃣     | یادگیری عمیق             | Deep Learning                  | MLP, CNN, RNN, LSTM, Autoencoder                                               |
+| 4️⃣     | یادگیری ترکیبی           | Hybrid Learning                | ML + DL، Rule-Based + ML، Stacking، Blending                                   |
+| 5️⃣     | مدل‌های گرافی             | Graph-Based Models             | GCN، GAT، GraphSAGE، Graph Attention Network، GATv2                            |
+| 6️⃣     | کشف ناهنجاری             | Anomaly Detection              | Isolation Forest، One-Class SVM، LOF، Autoencoder (Unsupervised)              |
+| 7️⃣     | یادگیری نیمه‌نظارتی       | Semi-Supervised Learning       | Label Propagation، Self-Training، Semi-Supervised SVM، Co-Training             |
+| 8️⃣     | یادگیری تقویتی            | Reinforcement Learning         | Q-Learning، Deep Q-Network (DQN)، SARSA، Policy Gradient                      |
+| 9️⃣     | یادگیری بدون نظارت        | Unsupervised Learning          | KMeans، DBSCAN، PCA، Autoencoder (Unsupervised)                               |
+
+</div>
