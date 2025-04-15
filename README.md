@@ -191,7 +191,7 @@ An **Ensemble-Based Machine Learning** approach for detecting credit card fraud,
 ## 🎯 انواع مدل‌های انسمبل (Ensemble Models)
 
 
-### </span>1️⃣ **Bagging (Bootstrap Aggregating)**<span dir="ltr">
+### 1️⃣ **Bagging (Bootstrap Aggregating)**
 
 📌 یکی از تکنیک‌های ساده و مؤثر برای کاهش **واریانس** و افزایش **پایداری** مدل‌ها.
 
