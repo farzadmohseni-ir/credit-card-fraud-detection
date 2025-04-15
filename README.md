@@ -1,2 +1,3 @@
-# credit-card-fraud-detection
-An Ensemble-Based Machine Learning Approach for Credit Card Fraud Detection Using Data Balancing Techniques.
+# 💳 Credit Card Fraud Detection
+
+An **Ensemble-Based Machine Learning** approach for detecting credit card fraud, enhanced by advanced **data balancing techniques** to handle class imbalance challenges effectively.
