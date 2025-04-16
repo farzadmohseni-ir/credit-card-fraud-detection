@@ -480,7 +480,7 @@ Feature Processing یک اصطلاح <strong>کلی و جامع</strong>ه که 
 <ul dir="rtl" align="right">
   <li>✅ <strong>بی‌سابقه بودن در پژوهش‌ها:</strong>  
     در جستجوهای دقیق علمی مثل 🌐 
-    <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=credit+card+fraud+detection+KMeans-SMOTE+CatBoost&btnG=">
+    <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=%22credit+card+fraud+detection%22+%22KMeans-SMOTE%22+%22CatBoost%22&btnG=">
     Google Scholar – جستجوی ترکیب KMeans-SMOTE + CatBoost برای CCFD</a>،
     هیچ مقاله‌ای این ترکیب را در CCFD به‌صورت مستقیم بررسی نکرده؛ پس نوآوری واقعی است.
   </li>
